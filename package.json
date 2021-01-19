@@ -9,10 +9,10 @@
   "files": [
     "dist"
   ],
-  "author": "--username-- <--usermail-->",
+  "author": "--zhangweiwei-- <zhangzhang_10@163.com>",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/LuckyZhangWeiwei/ts-axios-learning.git"
   },
   "license": "MIT",
   "engines": {
